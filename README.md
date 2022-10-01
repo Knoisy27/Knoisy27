@@ -1,6 +1,6 @@
 # 💥Hello there!💥
 
-- 👋 Hi, I’m **`@Knoisy27`**
+- 📢 I’m **`@Knoisy27`**
 - 👀 I’m interested in Software Develop
 - 📏 I’m currently learning Javascript, Python...
 - 📫 How to reach me [ LinkedIn](www.linkedin.com/in/jose-luis-ayala-molina-809906218)
