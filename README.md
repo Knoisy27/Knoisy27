@@ -3,7 +3,7 @@
 - 📢 I’m **`@Knoisy27`**
 - 👀 I’m interested in Software Develop
 - 📏 I’m currently learning Javascript, Python...
-- 📫 How to reach me [LinkedIn](www.linkedin.com/in/Knoisy27)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/Knoisy27)
 
 <!---
 Knoisy27/Knoisy27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
