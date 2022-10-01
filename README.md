@@ -3,7 +3,7 @@
 - 📢 I’m **`@Knoisy27`**
 - 👀 I’m interested in Software Develop
 - 📏 I’m currently learning Javascript, Python...
-- 📫 How to reach me [ LinkedIn](www.linkedin.com/in/jose-luis-ayala-molina-809906218)
+- 📫 How to reach me www.linkedin.com/in/jose-luis-ayala-molina-809906218
 
 <!---
 Knoisy27/Knoisy27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
