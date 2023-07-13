@@ -1,9 +1,9 @@
-# 💥Hello there!💥
+# 💥Hola ✌️💥
 
-- 📢 I’m **`Jose`**
-- 👀 I’m interested in Software Develop
-- 📏 I’m currently learning Javascript, Python...
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/Knoisy27)
+- 📢 Soy **`Jose`**
+- 👀 Estoy interesado en el Desarrollo de Software para aplicaciones de Escritorio y Web
+- 📏 Actualmente sigo en el aprendizaje de los leguajes JAVA y Python, siempre hay algo nuevo que aprender.
+- 📫 ¿Dónde contactarme? [LinkedIn](https://www.linkedin.com/in/joseluisayala27)
 
 <!---
 Knoisy27/Knoisy27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
