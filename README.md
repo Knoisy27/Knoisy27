@@ -1,8 +1,8 @@
 # 💥Hola ✌️💥
 
 - 📢 Soy **`Jose`**
-- 👀 Estoy interesado en el Desarrollo de Software para aplicaciones de Escritorio y Web
-- 📏 Actualmente sigo en el aprendizaje de los leguajes JAVA y Python. Siempre hay algo nuevo que aprender.
+- 👀 Estoy interesado en el Desarrollo Back-End para aplicaciones de Escritorio y Web
+- 📏 Tengo conocimientos en los lenguajes C#, .NET, Java, Python, SQL.
 - 📫 ¿Dónde contactarme? [LinkedIn](https://www.linkedin.com/in/joseluisayala27)
 
 <!---
